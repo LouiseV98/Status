@@ -53,3 +53,7 @@ EXPOSE 5000
 # Comando para correr la aplicación
 CMD ["python", "app.py"]
 ```
+
+```txt
+Flask==3.0.3
+```
