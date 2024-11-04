@@ -1,6 +1,9 @@
 # Estatus
  Programa que revisa el estado de mi aplicacion.
 
-```bash
-pip install responses
+```python
+def saludo():
+    print("Hola, mundo!")
+
+saludo()
 ```
