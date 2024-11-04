@@ -1,6 +1,10 @@
 # Estatus
  Programa que revisa el estado de mi aplicacion.
 
+```bash
+pip install Flask
+```
+
 ```python
 def saludo():
     print("Hola, mundo!")
